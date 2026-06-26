@@ -409,8 +409,6 @@ https://ciberbelami-tvorb.hf.space/stream/movies.ts
 https://ciberbelami-tvorb.hf.space/stream/ms-now.ts
 #EXTINF:-1 channel-id="msg" tvg-id="msg" tvg-name="MSG" tvg-logo="https://img.rebeliptv.net/channel/msg.png" tvg-country="US" tvg-language="English" group-title="Sports",MSG
 https://ciberbelami-tvorb.hf.space/stream/msg.ts
-#EXTINF:-1 channel-id="msg-plus" tvg-id="msg-plus" tvg-name="MSG Plus" tvg-logo="https://img.rebeliptv.net/channel/msg-plus.png" tvg-country="US" tvg-language="English" group-title="Sports",MSG Plus
-https://ciberbelami-tvorb.hf.space/stream/msg-plus.ts
 #EXTINF:-1 channel-id="mtv" tvg-id="mtv" tvg-name="MTV" tvg-logo="https://img.rebeliptv.net/channel/mtv.png" tvg-country="US" tvg-language="English" group-title="Music",MTV
 https://ciberbelami-tvorb.hf.space/stream/mtv.ts
 #EXTINF:-1 channel-id="mtv-classic" tvg-id="mtv-classic" tvg-name="MTV Classic" tvg-logo="https://img.rebeliptv.net/channel/mtv-classic.png" tvg-country="US" tvg-language="English" group-title="Music",MTV Classic
@@ -523,6 +521,8 @@ https://ciberbelami-tvorb.hf.space/stream/smithsonian-channel.ts
 https://ciberbelami-tvorb.hf.space/stream/sny.ts
 #EXTINF:-1 channel-id="spectrum-sportsnet" tvg-id="spectrum-sportsnet" tvg-name="Spectrum SportsNet" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet
 https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet.ts
+#EXTINF:-1 channel-id="spectrum-sportsnet-la" tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet-la.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet LA
+https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet-la.ts
 #EXTINF:-1 channel-id="sportsman-channel" tvg-id="sportsman-channel" tvg-name="Sportsman Channel" tvg-logo="https://img.rebeliptv.net/channel/sportsman-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Sportsman Channel
 https://ciberbelami-tvorb.hf.space/stream/sportsman-channel.ts
 #EXTINF:-1 channel-id="sportsnet-360" tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-360.png" tvg-country="US" tvg-language="English" group-title="Sports",Sportsnet 360
@@ -793,6 +793,14 @@ https://ciberbelami-tvorb.hf.space/stream/wwe-network.ts
 https://ciberbelami-tvorb.hf.space/stream/wztv.ts
 #EXTINF:-1 channel-id="yes-network" tvg-id="yes-network" tvg-name="YES Network" tvg-logo="https://img.rebeliptv.net/channel/yes-network.png" tvg-country="US" tvg-language="English" group-title="Sports",YES Network
 https://ciberbelami-tvorb.hf.space/stream/yes-network.ts
+#EXTINF:-1 channel-id="wlne" tvg-id="wlne" tvg-name="WLNE" tvg-logo="https://img.rebeliptv.net/channel/wlne.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WLNE
+https://ciberbelami-tvorb.hf.space/stream/wlne.ts
+#EXTINF:-1 channel-id="wjar" tvg-id="wjar" tvg-name="WJAR" tvg-logo="https://img.rebeliptv.net/channel/wjar.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WJAR
+https://ciberbelami-tvorb.hf.space/stream/wjar.ts
+#EXTINF:-1 channel-id="wnac" tvg-id="wnac" tvg-name="WNAC" tvg-logo="https://img.rebeliptv.net/channel/wnac.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNAC
+https://ciberbelami-tvorb.hf.space/stream/wnac.ts
+#EXTINF:-1 channel-id="wpri" tvg-id="wpri" tvg-name="WPRI" tvg-logo="https://img.rebeliptv.net/channel/wpri.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPRI
+https://ciberbelami-tvorb.hf.space/stream/wpri.ts
 #EXTINF:-1 channel-id="fra-vs-nor-fifa-2026-06-26" tvg-id="fra-vs-nor-fifa-2026-06-26" tvg-chno="5000" tvg-name="France vs Norway" tvg-logo="https://img.rebeliptv.net/event/fra-vs-nor-fifa-2026-06-26.png" tvg-country="US" tvg-language="English" group-title="FIFA",France vs Norway
 https://ciberbelami-tvorb.hf.space/stream/fra-vs-nor-fifa-2026-06-26.ts
 #EXTINF:-1 channel-id="irq-vs-sen-fifa-2026-06-26" tvg-id="irq-vs-sen-fifa-2026-06-26" tvg-chno="5001" tvg-name="Iraq vs Senegal" tvg-logo="https://img.rebeliptv.net/event/irq-vs-sen-fifa-2026-06-26.png" tvg-country="US" tvg-language="English" group-title="FIFA",Iraq vs Senegal
@@ -827,3 +835,7 @@ https://ciberbelami-tvorb.hf.space/stream/oak-vs-laa-mlb-2026-06-27.ts
 https://ciberbelami-tvorb.hf.space/stream/lad-vs-sdp-mlb-2026-06-27.ts
 #EXTINF:-1 channel-id="atl-vs-sfg-mlb-2026-06-27" tvg-id="atl-vs-sfg-mlb-2026-06-27" tvg-chno="5016" tvg-name="Atlanta Braves vs San Francisco Giants" tvg-logo="https://img.rebeliptv.net/event/atl-vs-sfg-mlb-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="MLB",Atlanta Braves vs San Francisco Giants
 https://ciberbelami-tvorb.hf.space/stream/atl-vs-sfg-mlb-2026-06-27.ts
+#EXTINF:-1 channel-id="irn-vs-egy-fifa-2026-06-27" tvg-id="irn-vs-egy-fifa-2026-06-27" tvg-chno="5017" tvg-name="Iran vs Egypt" tvg-logo="https://img.rebeliptv.net/event/irn-vs-egy-fifa-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="FIFA",Iran vs Egypt
+https://ciberbelami-tvorb.hf.space/stream/irn-vs-egy-fifa-2026-06-27.ts
+#EXTINF:-1 channel-id="bel-vs-nzl-fifa-2026-06-27" tvg-id="bel-vs-nzl-fifa-2026-06-27" tvg-chno="5018" tvg-name="Belgium vs New Zealand" tvg-logo="https://img.rebeliptv.net/event/bel-vs-nzl-fifa-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="FIFA",Belgium vs New Zealand
+https://ciberbelami-tvorb.hf.space/stream/bel-vs-nzl-fifa-2026-06-27.ts
