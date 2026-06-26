@@ -163,6 +163,8 @@ https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-southeast.ts
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-sun.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-west" tvg-id="fanduel-sports-network-west" tvg-name="FanDuel Sports West" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-west.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports West
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-west.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-wisconsin" tvg-id="fanduel-sports-network-wisconsin" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-wisconsin.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Wisconsin
+https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-wisconsin.ts
 #EXTINF:-1 channel-id="fanduel-tv" tvg-id="fanduel-tv" tvg-name="FanDuel TV" tvg-logo="https://img.rebeliptv.net/channel/fanduel-tv.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel TV
 https://ciberbelami-tvorb.hf.space/stream/fanduel-tv.ts
 #EXTINF:-1 channel-id="food-network" tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://img.rebeliptv.net/channel/food-network.png" tvg-country="US" tvg-language="English" group-title="Lifestyle",Food Network
@@ -521,8 +523,6 @@ https://ciberbelami-tvorb.hf.space/stream/smithsonian-channel.ts
 https://ciberbelami-tvorb.hf.space/stream/sny.ts
 #EXTINF:-1 channel-id="spectrum-sportsnet" tvg-id="spectrum-sportsnet" tvg-name="Spectrum SportsNet" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet
 https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet.ts
-#EXTINF:-1 channel-id="spectrum-sportsnet-la" tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet-la.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet LA
-https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet-la.ts
 #EXTINF:-1 channel-id="sportsman-channel" tvg-id="sportsman-channel" tvg-name="Sportsman Channel" tvg-logo="https://img.rebeliptv.net/channel/sportsman-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Sportsman Channel
 https://ciberbelami-tvorb.hf.space/stream/sportsman-channel.ts
 #EXTINF:-1 channel-id="sportsnet-360" tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-360.png" tvg-country="US" tvg-language="English" group-title="Sports",Sportsnet 360
@@ -709,6 +709,8 @@ https://ciberbelami-tvorb.hf.space/stream/wnbc.ts
 https://ciberbelami-tvorb.hf.space/stream/wncn.ts
 #EXTINF:-1 channel-id="wnyw" tvg-id="wnyw" tvg-name="WNYW" tvg-logo="https://img.rebeliptv.net/channel/wnyw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNYW
 https://ciberbelami-tvorb.hf.space/stream/wnyw.ts
+#EXTINF:-1 channel-id="wnwo" tvg-id="wnwo" tvg-name="WNWO" tvg-logo="https://img.rebeliptv.net/channel/wnwo.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNWO
+https://ciberbelami-tvorb.hf.space/stream/wnwo.ts
 #EXTINF:-1 channel-id="woai" tvg-id="woai" tvg-name="WOAI" tvg-logo="https://img.rebeliptv.net/channel/woai.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WOAI
 https://ciberbelami-tvorb.hf.space/stream/woai.ts
 #EXTINF:-1 channel-id="wofl" tvg-id="wofl" tvg-name="WOFL" tvg-logo="https://img.rebeliptv.net/channel/wofl.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WOFL
@@ -751,6 +753,8 @@ https://ciberbelami-tvorb.hf.space/stream/wthr.ts
 https://ciberbelami-tvorb.hf.space/stream/wtmj.ts
 #EXTINF:-1 channel-id="wtsp" tvg-id="wtsp" tvg-name="WTSP" tvg-logo="https://img.rebeliptv.net/channel/wtsp.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTSP
 https://ciberbelami-tvorb.hf.space/stream/wtsp.ts
+#EXTINF:-1 channel-id="wtol" tvg-id="wtol" tvg-name="WTOL" tvg-logo="https://img.rebeliptv.net/channel/wtol.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTOL
+https://ciberbelami-tvorb.hf.space/stream/wtol.ts
 #EXTINF:-1 channel-id="wttg" tvg-id="wttg" tvg-name="WTTG" tvg-logo="https://img.rebeliptv.net/channel/wttg.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTTG
 https://ciberbelami-tvorb.hf.space/stream/wttg.ts
 #EXTINF:-1 channel-id="wttv" tvg-id="wttv" tvg-name="WTTV" tvg-logo="https://img.rebeliptv.net/channel/wttv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTTV
@@ -765,6 +769,8 @@ https://ciberbelami-tvorb.hf.space/stream/wtvj.ts
 https://ciberbelami-tvorb.hf.space/stream/wtvt.ts
 #EXTINF:-1 channel-id="wtxf" tvg-id="wtxf" tvg-name="WTXF" tvg-logo="https://img.rebeliptv.net/channel/wtxf.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTXF
 https://ciberbelami-tvorb.hf.space/stream/wtxf.ts
+#EXTINF:-1 channel-id="wtvg" tvg-id="wtvg" tvg-name="WTVG" tvg-logo="https://img.rebeliptv.net/channel/wtvg.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTVG
+https://ciberbelami-tvorb.hf.space/stream/wtvg.ts
 #EXTINF:-1 channel-id="wupa" tvg-id="wupa" tvg-name="WUPA" tvg-logo="https://img.rebeliptv.net/channel/wupa.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WUPA
 https://ciberbelami-tvorb.hf.space/stream/wupa.ts
 #EXTINF:-1 channel-id="wusa" tvg-id="wusa" tvg-name="WUSA" tvg-logo="https://img.rebeliptv.net/channel/wusa.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WUSA
@@ -775,10 +781,14 @@ https://ciberbelami-tvorb.hf.space/stream/wwj.ts
 https://ciberbelami-tvorb.hf.space/stream/wxia.ts
 #EXTINF:-1 channel-id="wxin" tvg-id="wxin" tvg-name="WXIN" tvg-logo="https://img.rebeliptv.net/channel/wxin.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXIN
 https://ciberbelami-tvorb.hf.space/stream/wxin.ts
+#EXTINF:-1 channel-id="wupw" tvg-id="wupw" tvg-name="WUPW" tvg-logo="https://img.rebeliptv.net/channel/wupw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WUPW
+https://ciberbelami-tvorb.hf.space/stream/wupw.ts
 #EXTINF:-1 channel-id="wxix" tvg-id="wxix" tvg-name="WXIX" tvg-logo="https://img.rebeliptv.net/channel/wxix.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXIX
 https://ciberbelami-tvorb.hf.space/stream/wxix.ts
 #EXTINF:-1 channel-id="wxyz" tvg-id="wxyz" tvg-name="WXYZ" tvg-logo="https://img.rebeliptv.net/channel/wxyz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WXYZ
 https://ciberbelami-tvorb.hf.space/stream/wxyz.ts
+#EXTINF:-1 channel-id="wwe-network" tvg-id="wwe-network" tvg-name="WWE Network" tvg-logo="https://img.rebeliptv.net/channel/wwe-network.png" tvg-country="US" tvg-language="English" group-title="Entertainment",WWE Network
+https://ciberbelami-tvorb.hf.space/stream/wwe-network.ts
 #EXTINF:-1 channel-id="wztv" tvg-id="wztv" tvg-name="WZTV" tvg-logo="https://img.rebeliptv.net/channel/wztv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WZTV
 https://ciberbelami-tvorb.hf.space/stream/wztv.ts
 #EXTINF:-1 channel-id="yes-network" tvg-id="yes-network" tvg-name="YES Network" tvg-logo="https://img.rebeliptv.net/channel/yes-network.png" tvg-country="US" tvg-language="English" group-title="Sports",YES Network
@@ -803,3 +813,17 @@ https://ciberbelami-tvorb.hf.space/stream/nyy-vs-bos-mlb-2026-06-26.ts
 https://ciberbelami-tvorb.hf.space/stream/phi-vs-nym-mlb-2026-06-26.ts
 #EXTINF:-1 channel-id="sea-vs-cle-mlb-2026-06-26" tvg-id="sea-vs-cle-mlb-2026-06-26" tvg-chno="5009" tvg-name="Seattle Mariners vs Cleveland Guardians" tvg-logo="https://img.rebeliptv.net/event/sea-vs-cle-mlb-2026-06-26.png" tvg-country="US" tvg-language="English" group-title="MLB",Seattle Mariners vs Cleveland Guardians
 https://ciberbelami-tvorb.hf.space/stream/sea-vs-cle-mlb-2026-06-26.ts
+#EXTINF:-1 channel-id="kcr-vs-cws-mlb-2026-06-26" tvg-id="kcr-vs-cws-mlb-2026-06-26" tvg-chno="5010" tvg-name="Kansas City Royals vs Chicago White Sox" tvg-logo="https://img.rebeliptv.net/event/kcr-vs-cws-mlb-2026-06-26.png" tvg-country="US" tvg-language="English" group-title="MLB",Kansas City Royals vs Chicago White Sox
+https://ciberbelami-tvorb.hf.space/stream/kcr-vs-cws-mlb-2026-06-26.ts
+#EXTINF:-1 channel-id="chc-vs-mil-mlb-2026-06-26" tvg-id="chc-vs-mil-mlb-2026-06-26" tvg-chno="5011" tvg-name="Chicago Cubs vs Milwaukee Brewers" tvg-logo="https://img.rebeliptv.net/event/chc-vs-mil-mlb-2026-06-26.png" tvg-country="US" tvg-language="English" group-title="MLB",Chicago Cubs vs Milwaukee Brewers
+https://ciberbelami-tvorb.hf.space/stream/chc-vs-mil-mlb-2026-06-26.ts
+#EXTINF:-1 channel-id="ksa-vs-cpv-fifa-2026-06-27" tvg-id="ksa-vs-cpv-fifa-2026-06-27" tvg-chno="5012" tvg-name="Saudi Arabia vs Cape Verde" tvg-logo="https://img.rebeliptv.net/event/ksa-vs-cpv-fifa-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="FIFA",Saudi Arabia vs Cape Verde
+https://ciberbelami-tvorb.hf.space/stream/ksa-vs-cpv-fifa-2026-06-27.ts
+#EXTINF:-1 channel-id="esp-vs-uru-fifa-2026-06-27" tvg-id="esp-vs-uru-fifa-2026-06-27" tvg-chno="5013" tvg-name="Spain vs Uruguay" tvg-logo="https://img.rebeliptv.net/event/esp-vs-uru-fifa-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="FIFA",Spain vs Uruguay
+https://ciberbelami-tvorb.hf.space/stream/esp-vs-uru-fifa-2026-06-27.ts
+#EXTINF:-1 channel-id="oak-vs-laa-mlb-2026-06-27" tvg-id="oak-vs-laa-mlb-2026-06-27" tvg-chno="5014" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="https://img.rebeliptv.net/event/oak-vs-laa-mlb-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="MLB",Athletics vs Los Angeles Angels
+https://ciberbelami-tvorb.hf.space/stream/oak-vs-laa-mlb-2026-06-27.ts
+#EXTINF:-1 channel-id="lad-vs-sdp-mlb-2026-06-27" tvg-id="lad-vs-sdp-mlb-2026-06-27" tvg-chno="5015" tvg-name="Los Angeles Dodgers vs San Diego Padres" tvg-logo="https://img.rebeliptv.net/event/lad-vs-sdp-mlb-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Dodgers vs San Diego Padres
+https://ciberbelami-tvorb.hf.space/stream/lad-vs-sdp-mlb-2026-06-27.ts
+#EXTINF:-1 channel-id="atl-vs-sfg-mlb-2026-06-27" tvg-id="atl-vs-sfg-mlb-2026-06-27" tvg-chno="5016" tvg-name="Atlanta Braves vs San Francisco Giants" tvg-logo="https://img.rebeliptv.net/event/atl-vs-sfg-mlb-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="MLB",Atlanta Braves vs San Francisco Giants
+https://ciberbelami-tvorb.hf.space/stream/atl-vs-sfg-mlb-2026-06-27.ts
