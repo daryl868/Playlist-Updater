@@ -1,24 +1,23 @@
 name: Update Playlist
 
-   on:
-     schedule:
-       - cron: '0 * * * *'  # runs every hour
-     workflow_dispatch:       # lets you run it manually too
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
-   jobs:
-     update:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v3
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-         - name: Fetch playlist
-           run: |
-             curl -o playlist.m3u https://ciberbelami-tvorb.hf.space/playlist
+      - name: Fetch playlist
+        run: curl -A "Mozilla/5.0" -L -o playlist.m3u https://ciberbelami-tvorb.hf.space/playlist
 
-         - name: Commit and push if changed
-           run: |
-             git config user.name "github-actions"
-             git config user.email "actions@github.com"
-             git add playlist.m3u
-             git diff --cached --quiet || git commit -m "Update playlist"
-             git push
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add playlist.m3u
+          git diff --cached --quiet || git commit -m "Update playlist"
+          git push
