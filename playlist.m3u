@@ -147,6 +147,8 @@ https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-florida.ts
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-indiana.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-kansas-city" tvg-id="fanduel-sports-network-kansas-city" tvg-name="FanDuel Sports Kansas City" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-kansas-city.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Kansas City
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-kansas-city.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-midwest" tvg-id="fanduel-sports-network-midwest" tvg-name="FanDuel Sports Midwest" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-midwest.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Midwest
+https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-midwest.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-north" tvg-id="fanduel-sports-network-north" tvg-name="FanDuel Sports North" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-north.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports North
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-north.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-ohio" tvg-id="fanduel-sports-network-ohio" tvg-name="FanDuel Sports Ohio" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-ohio.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Ohio
@@ -829,3 +831,7 @@ https://ciberbelami-tvorb.hf.space/stream/mia-vs-stl-mlb-2026-06-27.ts
 https://ciberbelami-tvorb.hf.space/stream/por-vs-col-fifa-2026-06-27.ts
 #EXTINF:-1 channel-id="uzb-vs-cod-fifa-2026-06-27" tvg-id="uzb-vs-cod-fifa-2026-06-27" tvg-chno="5015" tvg-name="Uzbekistan vs Congo DR" tvg-logo="https://img.rebeliptv.net/event/uzb-vs-cod-fifa-2026-06-27.png" tvg-country="US" tvg-language="English" group-title="FIFA",Uzbekistan vs Congo DR
 https://ciberbelami-tvorb.hf.space/stream/uzb-vs-cod-fifa-2026-06-27.ts
+#EXTINF:-1 channel-id="aut-vs-alg-fifa-2026-06-28" tvg-id="aut-vs-alg-fifa-2026-06-28" tvg-chno="5016" tvg-name="Austria vs Algeria" tvg-logo="https://img.rebeliptv.net/event/aut-vs-alg-fifa-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="FIFA",Austria vs Algeria
+https://ciberbelami-tvorb.hf.space/stream/aut-vs-alg-fifa-2026-06-28.ts
+#EXTINF:-1 channel-id="arg-vs-jor-fifa-2026-06-28" tvg-id="arg-vs-jor-fifa-2026-06-28" tvg-chno="5017" tvg-name="Argentina vs Jordan" tvg-logo="https://img.rebeliptv.net/event/arg-vs-jor-fifa-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="FIFA",Argentina vs Jordan
+https://ciberbelami-tvorb.hf.space/stream/arg-vs-jor-fifa-2026-06-28.ts
