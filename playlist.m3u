@@ -39,12 +39,20 @@ https://ciberbelami-tvorb.hf.space/stream/aspire-tv.ts
 https://ciberbelami-tvorb.hf.space/stream/axs-tv.ts
 #EXTINF:-1 channel-id="bbc-america" tvg-id="bbc-america" tvg-name="BBC America" tvg-logo="https://img.rebeliptv.net/channel/bbc-america.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BBC America
 https://ciberbelami-tvorb.hf.space/stream/bbc-america.ts
+#EXTINF:-1 channel-id="bbc-four" tvg-id="bbc-four" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-four.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
+https://ciberbelami-tvorb.hf.space/stream/bbc-four.ts
 #EXTINF:-1 channel-id="bein-sports" tvg-id="bein-sports" tvg-name="BeIN Sports" tvg-logo="https://img.rebeliptv.net/channel/bein-sports.png" tvg-country="US" tvg-language="English" group-title="Sports",BeIN Sports
 https://ciberbelami-tvorb.hf.space/stream/bein-sports.ts
+#EXTINF:-1 channel-id="bbc-one" tvg-id="bbc-one" tvg-name="BBC One" tvg-logo="https://img.rebeliptv.net/channel/bbc-one.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC One
+https://ciberbelami-tvorb.hf.space/stream/bbc-one.ts
 #EXTINF:-1 channel-id="bet" tvg-id="bet" tvg-name="BET" tvg-logo="https://img.rebeliptv.net/channel/bet.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET
 https://ciberbelami-tvorb.hf.space/stream/bet.ts
+#EXTINF:-1 channel-id="bbc-two" tvg-id="bbc-two" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-two.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
+https://ciberbelami-tvorb.hf.space/stream/bbc-two.ts
 #EXTINF:-1 channel-id="bet-gospel" tvg-id="bet-gospel" tvg-name="BET Gospel" tvg-logo="https://img.rebeliptv.net/channel/bet-gospel.png" tvg-country="US" tvg-language="English" group-title="Music",BET Gospel
 https://ciberbelami-tvorb.hf.space/stream/bet-gospel.ts
+#EXTINF:-1 channel-id="bbc-three" tvg-id="bbc-three" tvg-name="BBC Three" tvg-logo="https://img.rebeliptv.net/channel/bbc-three.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Three
+https://ciberbelami-tvorb.hf.space/stream/bbc-three.ts
 #EXTINF:-1 channel-id="bet-her" tvg-id="bet-her" tvg-name="BET Her" tvg-logo="https://img.rebeliptv.net/channel/bet-her.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET Her
 https://ciberbelami-tvorb.hf.space/stream/bet-her.ts
 #EXTINF:-1 channel-id="bet-jams" tvg-id="bet-jams" tvg-name="BET Jams" tvg-logo="https://img.rebeliptv.net/channel/bet-jams.png" tvg-country="US" tvg-language="English" group-title="Music",BET Jams
@@ -77,8 +85,12 @@ https://ciberbelami-tvorb.hf.space/stream/cbs-sports-network.ts
 https://ciberbelami-tvorb.hf.space/stream/charge.ts
 #EXTINF:-1 channel-id="chicago-sports-network" tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" tvg-logo="https://img.rebeliptv.net/channel/chicago-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Chicago Sports Network
 https://ciberbelami-tvorb.hf.space/stream/chicago-sports-network.ts
+#EXTINF:-1 channel-id="channel-4" tvg-id="channel-4" tvg-name="Channel 4" tvg-logo="https://img.rebeliptv.net/channel/channel-4.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",Channel 4
+https://ciberbelami-tvorb.hf.space/stream/channel-4.ts
 #EXTINF:-1 channel-id="cinemax" tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://img.rebeliptv.net/channel/cinemax.png" tvg-country="US" tvg-language="English" group-title="Movies",Cinemax
 https://ciberbelami-tvorb.hf.space/stream/cinemax.ts
+#EXTINF:-1 channel-id="channel-5" tvg-id="channel-5" tvg-name="Channel 5" tvg-logo="https://img.rebeliptv.net/channel/channel-5.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",Channel 5
+https://ciberbelami-tvorb.hf.space/stream/channel-5.ts
 #EXTINF:-1 channel-id="cinemax-hits" tvg-id="cinemax-hits" tvg-name="Cinemax Hits" tvg-logo="https://img.rebeliptv.net/channel/cinemax-hits.png" tvg-country="US" tvg-language="English" group-title="Movies",Cinemax Hits
 https://ciberbelami-tvorb.hf.space/stream/cinemax-hits.ts
 #EXTINF:-1 channel-id="cleo-tv" tvg-id="cleo-tv" tvg-name="Cleo TV" tvg-logo="https://img.rebeliptv.net/channel/cleo-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Cleo TV
@@ -519,6 +531,8 @@ https://ciberbelami-tvorb.hf.space/stream/smithsonian-channel.ts
 https://ciberbelami-tvorb.hf.space/stream/sny.ts
 #EXTINF:-1 channel-id="spectrum-sportsnet" tvg-id="spectrum-sportsnet" tvg-name="Spectrum SportsNet" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet
 https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet.ts
+#EXTINF:-1 channel-id="spectrum-sportsnet-la" tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet-la.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet LA
+https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet-la.ts
 #EXTINF:-1 channel-id="sportsman-channel" tvg-id="sportsman-channel" tvg-name="Sportsman Channel" tvg-logo="https://img.rebeliptv.net/channel/sportsman-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Sportsman Channel
 https://ciberbelami-tvorb.hf.space/stream/sportsman-channel.ts
 #EXTINF:-1 channel-id="sportsnet-360" tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="https://img.rebeliptv.net/channel/sportsnet-360.png" tvg-country="US" tvg-language="English" group-title="Sports",Sportsnet 360
@@ -797,33 +811,9 @@ https://ciberbelami-tvorb.hf.space/stream/wjar.ts
 https://ciberbelami-tvorb.hf.space/stream/wnac.ts
 #EXTINF:-1 channel-id="wpri" tvg-id="wpri" tvg-name="WPRI" tvg-logo="https://img.rebeliptv.net/channel/wpri.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPRI
 https://ciberbelami-tvorb.hf.space/stream/wpri.ts
-#EXTINF:-1 channel-id="cin-vs-pit-mlb-2026-06-28" tvg-id="cin-vs-pit-mlb-2026-06-28" tvg-chno="5000" tvg-name="Cincinnati Reds vs Pittsburgh Pirates" tvg-logo="https://img.rebeliptv.net/event/cin-vs-pit-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Cincinnati Reds vs Pittsburgh Pirates
-https://ciberbelami-tvorb.hf.space/stream/cin-vs-pit-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="wsh-vs-bal-mlb-2026-06-28" tvg-id="wsh-vs-bal-mlb-2026-06-28" tvg-chno="5001" tvg-name="Washington Nationals vs Baltimore Orioles" tvg-logo="https://img.rebeliptv.net/event/wsh-vs-bal-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Washington Nationals vs Baltimore Orioles
-https://ciberbelami-tvorb.hf.space/stream/wsh-vs-bal-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="tex-vs-tor-mlb-2026-06-28" tvg-id="tex-vs-tor-mlb-2026-06-28" tvg-chno="5002" tvg-name="Texas Rangers vs Toronto Blue Jays" tvg-logo="https://img.rebeliptv.net/event/tex-vs-tor-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Texas Rangers vs Toronto Blue Jays
-https://ciberbelami-tvorb.hf.space/stream/tex-vs-tor-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="hou-vs-det-mlb-2026-06-28" tvg-id="hou-vs-det-mlb-2026-06-28" tvg-chno="5003" tvg-name="Houston Astros vs Detroit Tigers" tvg-logo="https://img.rebeliptv.net/event/hou-vs-det-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Houston Astros vs Detroit Tigers
-https://ciberbelami-tvorb.hf.space/stream/hou-vs-det-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="phi-vs-nym-mlb-2026-06-28" tvg-id="phi-vs-nym-mlb-2026-06-28" tvg-chno="5004" tvg-name="Philadelphia Phillies vs New York Mets" tvg-logo="https://img.rebeliptv.net/event/phi-vs-nym-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Philadelphia Phillies vs New York Mets
-https://ciberbelami-tvorb.hf.space/stream/phi-vs-nym-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="sea-vs-cle-mlb-2026-06-28" tvg-id="sea-vs-cle-mlb-2026-06-28" tvg-chno="5005" tvg-name="Seattle Mariners vs Cleveland Guardians" tvg-logo="https://img.rebeliptv.net/event/sea-vs-cle-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Seattle Mariners vs Cleveland Guardians
-https://ciberbelami-tvorb.hf.space/stream/sea-vs-cle-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="chc-vs-mil-mlb-2026-06-28" tvg-id="chc-vs-mil-mlb-2026-06-28" tvg-chno="5006" tvg-name="Chicago Cubs vs Milwaukee Brewers" tvg-logo="https://img.rebeliptv.net/event/chc-vs-mil-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Chicago Cubs vs Milwaukee Brewers
-https://ciberbelami-tvorb.hf.space/stream/chc-vs-mil-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="col-vs-min-mlb-2026-06-28" tvg-id="col-vs-min-mlb-2026-06-28" tvg-chno="5007" tvg-name="Colorado Rockies vs Minnesota Twins" tvg-logo="https://img.rebeliptv.net/event/col-vs-min-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Colorado Rockies vs Minnesota Twins
-https://ciberbelami-tvorb.hf.space/stream/col-vs-min-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="kcr-vs-cws-mlb-2026-06-28" tvg-id="kcr-vs-cws-mlb-2026-06-28" tvg-chno="5008" tvg-name="Kansas City Royals vs Chicago White Sox" tvg-logo="https://img.rebeliptv.net/event/kcr-vs-cws-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Kansas City Royals vs Chicago White Sox
-https://ciberbelami-tvorb.hf.space/stream/kcr-vs-cws-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="mia-vs-stl-mlb-2026-06-28" tvg-id="mia-vs-stl-mlb-2026-06-28" tvg-chno="5009" tvg-name="Miami Marlins vs St. Louis Cardinals" tvg-logo="https://img.rebeliptv.net/event/mia-vs-stl-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Miami Marlins vs St. Louis Cardinals
-https://ciberbelami-tvorb.hf.space/stream/mia-vs-stl-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="can-vs-rsa-fifa-2026-06-28" tvg-id="can-vs-rsa-fifa-2026-06-28" tvg-chno="5010" tvg-name="Canada vs South Africa" tvg-logo="https://img.rebeliptv.net/event/can-vs-rsa-fifa-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="FIFA",Canada vs South Africa
-https://ciberbelami-tvorb.hf.space/stream/can-vs-rsa-fifa-2026-06-28.ts
-#EXTINF:-1 channel-id="oak-vs-laa-mlb-2026-06-28" tvg-id="oak-vs-laa-mlb-2026-06-28" tvg-chno="5011" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="https://img.rebeliptv.net/event/oak-vs-laa-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Athletics vs Los Angeles Angels
-https://ciberbelami-tvorb.hf.space/stream/oak-vs-laa-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="atl-vs-sfg-mlb-2026-06-28" tvg-id="atl-vs-sfg-mlb-2026-06-28" tvg-chno="5012" tvg-name="Atlanta Braves vs San Francisco Giants" tvg-logo="https://img.rebeliptv.net/event/atl-vs-sfg-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Atlanta Braves vs San Francisco Giants
+#EXTINF:-1 channel-id="atl-vs-sfg-mlb-2026-06-28" tvg-id="atl-vs-sfg-mlb-2026-06-28" tvg-chno="5000" tvg-name="Atlanta Braves vs San Francisco Giants" tvg-logo="https://img.rebeliptv.net/event/atl-vs-sfg-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Atlanta Braves vs San Francisco Giants
 https://ciberbelami-tvorb.hf.space/stream/atl-vs-sfg-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="lad-vs-sdp-mlb-2026-06-28" tvg-id="lad-vs-sdp-mlb-2026-06-28" tvg-chno="5013" tvg-name="Los Angeles Dodgers vs San Diego Padres" tvg-logo="https://img.rebeliptv.net/event/lad-vs-sdp-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Dodgers vs San Diego Padres
+#EXTINF:-1 channel-id="lad-vs-sdp-mlb-2026-06-28" tvg-id="lad-vs-sdp-mlb-2026-06-28" tvg-chno="5001" tvg-name="Los Angeles Dodgers vs San Diego Padres" tvg-logo="https://img.rebeliptv.net/event/lad-vs-sdp-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Dodgers vs San Diego Padres
 https://ciberbelami-tvorb.hf.space/stream/lad-vs-sdp-mlb-2026-06-28.ts
-#EXTINF:-1 channel-id="nyy-vs-bos-mlb-2026-06-28" tvg-id="nyy-vs-bos-mlb-2026-06-28" tvg-chno="5014" tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://img.rebeliptv.net/event/nyy-vs-bos-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",New York Yankees vs Boston Red Sox
+#EXTINF:-1 channel-id="nyy-vs-bos-mlb-2026-06-28" tvg-id="nyy-vs-bos-mlb-2026-06-28" tvg-chno="5002" tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://img.rebeliptv.net/event/nyy-vs-bos-mlb-2026-06-28.png" tvg-country="US" tvg-language="English" group-title="MLB",New York Yankees vs Boston Red Sox
 https://ciberbelami-tvorb.hf.space/stream/nyy-vs-bos-mlb-2026-06-28.ts
