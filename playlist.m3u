@@ -39,8 +39,6 @@ https://ciberbelami-tvorb.hf.space/stream/aspire-tv.ts
 https://ciberbelami-tvorb.hf.space/stream/axs-tv.ts
 #EXTINF:-1 channel-id="bbc-america" tvg-id="bbc-america" tvg-name="BBC America" tvg-logo="https://img.rebeliptv.net/channel/bbc-america.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BBC America
 https://ciberbelami-tvorb.hf.space/stream/bbc-america.ts
-#EXTINF:-1 channel-id="bbc-news" tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://img.rebeliptv.net/channel/bbc-news.png" tvg-country="US" tvg-language="English" group-title="News;International",BBC News
-https://ciberbelami-tvorb.hf.space/stream/bbc-news.ts
 #EXTINF:-1 channel-id="bein-sports" tvg-id="bein-sports" tvg-name="BeIN Sports" tvg-logo="https://img.rebeliptv.net/channel/bein-sports.png" tvg-country="US" tvg-language="English" group-title="Sports",BeIN Sports
 https://ciberbelami-tvorb.hf.space/stream/bein-sports.ts
 #EXTINF:-1 channel-id="bet" tvg-id="bet" tvg-name="BET" tvg-logo="https://img.rebeliptv.net/channel/bet.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET
@@ -151,8 +149,6 @@ https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-kansas-city.ts
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-north.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-ohio" tvg-id="fanduel-sports-network-ohio" tvg-name="FanDuel Sports Ohio" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-ohio.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Ohio
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-ohio.ts
-#EXTINF:-1 channel-id="fanduel-sports-network-oklahoma" tvg-id="fanduel-sports-network-oklahoma" tvg-name="FanDuel Sports Oklahoma" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-oklahoma.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Oklahoma
-https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-oklahoma.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-south" tvg-id="fanduel-sports-network-south" tvg-name="FanDuel Sports South" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-south.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports South
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-south.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-southeast" tvg-id="fanduel-sports-network-southeast" tvg-name="FanDuel Sports Southeast" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-southeast.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Southeast
