@@ -89,6 +89,8 @@ https://ciberbelami-tvorb.hf.space/stream/c-span-2.ts
 https://ciberbelami-tvorb.hf.space/stream/c-span-3.ts
 #EXTINF:-1 channel-id="cartoon-network" tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://img.rebeliptv.net/channel/cartoon-network.png" tvg-country="US" tvg-language="English" group-title="Kids",Cartoon Network
 https://ciberbelami-tvorb.hf.space/stream/cartoon-network.ts
+#EXTINF:-1 channel-id="cbat" tvg-id="cbat" tvg-name="CBAT" tvg-logo="https://img.rebeliptv.net/channel/cbat.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",CBAT
+https://ciberbelami-tvorb.hf.space/stream/cbat.ts
 #EXTINF:-1 channel-id="cbs-sports-network" tvg-id="cbs-sports-network" tvg-name="CBS Sports Network" tvg-logo="https://img.rebeliptv.net/channel/cbs-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",CBS Sports Network
 https://ciberbelami-tvorb.hf.space/stream/cbs-sports-network.ts
 #EXTINF:-1 channel-id="charge" tvg-id="charge" tvg-name="Charge!" tvg-logo="https://img.rebeliptv.net/channel/charge.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Charge!
@@ -845,3 +847,13 @@ https://ciberbelami-tvorb.hf.space/stream/cin-vs-mil-mlb-2026-06-30.ts
 https://ciberbelami-tvorb.hf.space/stream/tbr-vs-kcr-mlb-2026-06-30.ts
 #EXTINF:-1 channel-id="min-vs-hou-mlb-2026-07-01" tvg-id="min-vs-hou-mlb-2026-07-01" tvg-chno="5010" tvg-name="Minnesota Twins vs Houston Astros" tvg-logo="https://img.rebeliptv.net/event/min-vs-hou-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",Minnesota Twins vs Houston Astros
 https://ciberbelami-tvorb.hf.space/stream/min-vs-hou-mlb-2026-07-01.ts
+#EXTINF:-1 channel-id="mia-vs-col-mlb-2026-07-01" tvg-id="mia-vs-col-mlb-2026-07-01" tvg-chno="5011" tvg-name="Miami Marlins vs Colorado Rockies" tvg-logo="https://img.rebeliptv.net/event/mia-vs-col-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",Miami Marlins vs Colorado Rockies
+https://ciberbelami-tvorb.hf.space/stream/mia-vs-col-mlb-2026-07-01.ts
+#EXTINF:-1 channel-id="ecu-vs-mex-fifa-2026-07-01" tvg-id="ecu-vs-mex-fifa-2026-07-01" tvg-chno="5012" tvg-name="Ecuador vs Mexico" tvg-logo="https://img.rebeliptv.net/event/ecu-vs-mex-fifa-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="FIFA",Ecuador vs Mexico
+https://ciberbelami-tvorb.hf.space/stream/ecu-vs-mex-fifa-2026-07-01.ts
+#EXTINF:-1 channel-id="laa-vs-sea-mlb-2026-07-01" tvg-id="laa-vs-sea-mlb-2026-07-01" tvg-chno="5013" tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://img.rebeliptv.net/event/laa-vs-sea-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Angels vs Seattle Mariners
+https://ciberbelami-tvorb.hf.space/stream/laa-vs-sea-mlb-2026-07-01.ts
+#EXTINF:-1 channel-id="lad-vs-oak-mlb-2026-07-01" tvg-id="lad-vs-oak-mlb-2026-07-01" tvg-chno="5014" tvg-name="Los Angeles Dodgers vs Athletics" tvg-logo="https://img.rebeliptv.net/event/lad-vs-oak-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Dodgers vs Athletics
+https://ciberbelami-tvorb.hf.space/stream/lad-vs-oak-mlb-2026-07-01.ts
+#EXTINF:-1 channel-id="sfg-vs-ari-mlb-2026-07-01" tvg-id="sfg-vs-ari-mlb-2026-07-01" tvg-chno="5015" tvg-name="San Francisco Giants vs Arizona Diamondbacks" tvg-logo="https://img.rebeliptv.net/event/sfg-vs-ari-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",San Francisco Giants vs Arizona Diamondbacks
+https://ciberbelami-tvorb.hf.space/stream/sfg-vs-ari-mlb-2026-07-01.ts
