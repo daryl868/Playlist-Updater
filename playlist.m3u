@@ -31,8 +31,6 @@ https://ciberbelami-tvorb.hf.space/stream/amc.ts
 https://ciberbelami-tvorb.hf.space/stream/american-heroes-channel.ts
 #EXTINF:-1 channel-id="animal-planet" tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://img.rebeliptv.net/channel/animal-planet.png" tvg-country="US" tvg-language="English" group-title="Documentary",Animal Planet
 https://ciberbelami-tvorb.hf.space/stream/animal-planet.ts
-#EXTINF:-1 channel-id="antenna-tv" tvg-id="antenna-tv" tvg-name="Antenna TV" tvg-logo="https://img.rebeliptv.net/channel/antenna-tv.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Antenna TV
-https://ciberbelami-tvorb.hf.space/stream/antenna-tv.ts
 #EXTINF:-1 channel-id="aspire-tv" tvg-id="aspire-tv" tvg-name="Aspire TV" tvg-logo="https://img.rebeliptv.net/channel/aspire-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Aspire TV
 https://ciberbelami-tvorb.hf.space/stream/aspire-tv.ts
 #EXTINF:-1 channel-id="axs-tv" tvg-id="axs-tv" tvg-name="AXS TV" tvg-logo="https://img.rebeliptv.net/channel/axs-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",AXS TV
@@ -89,8 +87,6 @@ https://ciberbelami-tvorb.hf.space/stream/c-span-2.ts
 https://ciberbelami-tvorb.hf.space/stream/c-span-3.ts
 #EXTINF:-1 channel-id="cartoon-network" tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://img.rebeliptv.net/channel/cartoon-network.png" tvg-country="US" tvg-language="English" group-title="Kids",Cartoon Network
 https://ciberbelami-tvorb.hf.space/stream/cartoon-network.ts
-#EXTINF:-1 channel-id="cbat" tvg-id="cbat" tvg-name="CBAT" tvg-logo="https://img.rebeliptv.net/channel/cbat.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",CBAT
-https://ciberbelami-tvorb.hf.space/stream/cbat.ts
 #EXTINF:-1 channel-id="cbs-sports-network" tvg-id="cbs-sports-network" tvg-name="CBS Sports Network" tvg-logo="https://img.rebeliptv.net/channel/cbs-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",CBS Sports Network
 https://ciberbelami-tvorb.hf.space/stream/cbs-sports-network.ts
 #EXTINF:-1 channel-id="charge" tvg-id="charge" tvg-name="Charge!" tvg-logo="https://img.rebeliptv.net/channel/charge.png" tvg-country="US" tvg-language="English" group-title="Broadcast",Charge!
