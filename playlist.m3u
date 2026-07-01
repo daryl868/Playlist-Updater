@@ -37,14 +37,30 @@ https://ciberbelami-tvorb.hf.space/stream/aspire-tv.ts
 https://ciberbelami-tvorb.hf.space/stream/axs-tv.ts
 #EXTINF:-1 channel-id="bbc-america" tvg-id="bbc-america" tvg-name="BBC America" tvg-logo="https://img.rebeliptv.net/channel/bbc-america.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BBC America
 https://ciberbelami-tvorb.hf.space/stream/bbc-america.ts
+#EXTINF:-1 channel-id="bbc-1" tvg-id="bbc-1" tvg-name="BBC One" tvg-logo="https://img.rebeliptv.net/channel/bbc-1.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC One
+https://ciberbelami-tvorb.hf.space/stream/bbc-1.ts
 #EXTINF:-1 channel-id="bbc-news" tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://img.rebeliptv.net/channel/bbc-news.png" tvg-country="US" tvg-language="English" group-title="Broadcast;News",BBC News
 https://ciberbelami-tvorb.hf.space/stream/bbc-news.ts
+#EXTINF:-1 channel-id="bbc-four" tvg-id="bbc-four" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-four.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
+https://ciberbelami-tvorb.hf.space/stream/bbc-four.ts
+#EXTINF:-1 channel-id="bbc-2" tvg-id="bbc-2" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-2.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
+https://ciberbelami-tvorb.hf.space/stream/bbc-2.ts
 #EXTINF:-1 channel-id="bein-sports" tvg-id="bein-sports" tvg-name="BeIN Sports" tvg-logo="https://img.rebeliptv.net/channel/bein-sports.png" tvg-country="US" tvg-language="English" group-title="Sports",BeIN Sports
 https://ciberbelami-tvorb.hf.space/stream/bein-sports.ts
+#EXTINF:-1 channel-id="bbc-one" tvg-id="bbc-one" tvg-name="BBC One" tvg-logo="https://img.rebeliptv.net/channel/bbc-one.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC One
+https://ciberbelami-tvorb.hf.space/stream/bbc-one.ts
+#EXTINF:-1 channel-id="bbc-3" tvg-id="bbc-3" tvg-name="BBC Three" tvg-logo="https://img.rebeliptv.net/channel/bbc-3.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Three
+https://ciberbelami-tvorb.hf.space/stream/bbc-3.ts
 #EXTINF:-1 channel-id="bet" tvg-id="bet" tvg-name="BET" tvg-logo="https://img.rebeliptv.net/channel/bet.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET
 https://ciberbelami-tvorb.hf.space/stream/bet.ts
+#EXTINF:-1 channel-id="bbc-two" tvg-id="bbc-two" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-two.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
+https://ciberbelami-tvorb.hf.space/stream/bbc-two.ts
+#EXTINF:-1 channel-id="bbc-4" tvg-id="bbc-4" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-4.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
+https://ciberbelami-tvorb.hf.space/stream/bbc-4.ts
 #EXTINF:-1 channel-id="bet-gospel" tvg-id="bet-gospel" tvg-name="BET Gospel" tvg-logo="https://img.rebeliptv.net/channel/bet-gospel.png" tvg-country="US" tvg-language="English" group-title="Music",BET Gospel
 https://ciberbelami-tvorb.hf.space/stream/bet-gospel.ts
+#EXTINF:-1 channel-id="bbc-three" tvg-id="bbc-three" tvg-name="BBC Three" tvg-logo="https://img.rebeliptv.net/channel/bbc-three.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Three
+https://ciberbelami-tvorb.hf.space/stream/bbc-three.ts
 #EXTINF:-1 channel-id="bet-her" tvg-id="bet-her" tvg-name="BET Her" tvg-logo="https://img.rebeliptv.net/channel/bet-her.png" tvg-country="US" tvg-language="English" group-title="Entertainment",BET Her
 https://ciberbelami-tvorb.hf.space/stream/bet-her.ts
 #EXTINF:-1 channel-id="bet-jams" tvg-id="bet-jams" tvg-name="BET Jams" tvg-logo="https://img.rebeliptv.net/channel/bet-jams.png" tvg-country="US" tvg-language="English" group-title="Music",BET Jams
@@ -77,8 +93,12 @@ https://ciberbelami-tvorb.hf.space/stream/cbs-sports-network.ts
 https://ciberbelami-tvorb.hf.space/stream/charge.ts
 #EXTINF:-1 channel-id="chicago-sports-network" tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" tvg-logo="https://img.rebeliptv.net/channel/chicago-sports-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Chicago Sports Network
 https://ciberbelami-tvorb.hf.space/stream/chicago-sports-network.ts
+#EXTINF:-1 channel-id="channel-4" tvg-id="channel-4" tvg-name="Channel 4" tvg-logo="https://img.rebeliptv.net/channel/channel-4.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",Channel 4
+https://ciberbelami-tvorb.hf.space/stream/channel-4.ts
 #EXTINF:-1 channel-id="cinemax" tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://img.rebeliptv.net/channel/cinemax.png" tvg-country="US" tvg-language="English" group-title="Movies",Cinemax
 https://ciberbelami-tvorb.hf.space/stream/cinemax.ts
+#EXTINF:-1 channel-id="channel-5" tvg-id="channel-5" tvg-name="Channel 5" tvg-logo="https://img.rebeliptv.net/channel/channel-5.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",Channel 5
+https://ciberbelami-tvorb.hf.space/stream/channel-5.ts
 #EXTINF:-1 channel-id="cinemax-hits" tvg-id="cinemax-hits" tvg-name="Cinemax Hits" tvg-logo="https://img.rebeliptv.net/channel/cinemax-hits.png" tvg-country="US" tvg-language="English" group-title="Movies",Cinemax Hits
 https://ciberbelami-tvorb.hf.space/stream/cinemax-hits.ts
 #EXTINF:-1 channel-id="cleo-tv" tvg-id="cleo-tv" tvg-name="Cleo TV" tvg-logo="https://img.rebeliptv.net/channel/cleo-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Cleo TV
@@ -103,6 +123,8 @@ https://ciberbelami-tvorb.hf.space/stream/cooking-channel.ts
 https://ciberbelami-tvorb.hf.space/stream/court-tv.ts
 #EXTINF:-1 channel-id="cowboy-channel" tvg-id="cowboy-channel" tvg-name="Cowboy Channel" tvg-logo="https://img.rebeliptv.net/channel/cowboy-channel.png" tvg-country="US" tvg-language="English" group-title="Sports",Cowboy Channel
 https://ciberbelami-tvorb.hf.space/stream/cowboy-channel.ts
+#EXTINF:-1 channel-id="cp24" tvg-id="cp24" tvg-name="CP24" tvg-logo="https://img.rebeliptv.net/channel/cp24.png" tvg-country="US" tvg-language="English" group-title="News",CP24
+https://ciberbelami-tvorb.hf.space/stream/cp24.ts
 #EXTINF:-1 channel-id="crime-and-investigation" tvg-id="crime-and-investigation" tvg-name="Crime & Investigation" tvg-logo="https://img.rebeliptv.net/channel/crime-and-investigation.png" tvg-country="US" tvg-language="English" group-title="Documentary",Crime & Investigation
 https://ciberbelami-tvorb.hf.space/stream/crime-and-investigation.ts
 #EXTINF:-1 channel-id="destination-america" tvg-id="destination-america" tvg-name="Destination America" tvg-logo="https://img.rebeliptv.net/channel/destination-america.png" tvg-country="US" tvg-language="English" group-title="Documentary",Destination America
@@ -515,6 +537,8 @@ https://ciberbelami-tvorb.hf.space/stream/sky-sports-racing.ts
 https://ciberbelami-tvorb.hf.space/stream/sky-sports-tennis.ts
 #EXTINF:-1 channel-id="smithsonian-channel" tvg-id="smithsonian-channel" tvg-name="Smithsonian Channel" tvg-logo="https://img.rebeliptv.net/channel/smithsonian-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Smithsonian Channel
 https://ciberbelami-tvorb.hf.space/stream/smithsonian-channel.ts
+#EXTINF:-1 channel-id="sny" tvg-id="sny" tvg-name="SNY" tvg-logo="https://img.rebeliptv.net/channel/sny.png" tvg-country="US" tvg-language="English" group-title="Sports",SNY
+https://ciberbelami-tvorb.hf.space/stream/sny.ts
 #EXTINF:-1 channel-id="spectrum-sportsnet" tvg-id="spectrum-sportsnet" tvg-name="Spectrum SportsNet" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet
 https://ciberbelami-tvorb.hf.space/stream/spectrum-sportsnet.ts
 #EXTINF:-1 channel-id="spectrum-sportsnet-la" tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="https://img.rebeliptv.net/channel/spectrum-sportsnet-la.png" tvg-country="US" tvg-language="English" group-title="Sports",Spectrum SportsNet LA
@@ -797,7 +821,3 @@ https://ciberbelami-tvorb.hf.space/stream/wjar.ts
 https://ciberbelami-tvorb.hf.space/stream/wnac.ts
 #EXTINF:-1 channel-id="wpri" tvg-id="wpri" tvg-name="WPRI" tvg-logo="https://img.rebeliptv.net/channel/wpri.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPRI
 https://ciberbelami-tvorb.hf.space/stream/wpri.ts
-#EXTINF:-1 channel-id="cws-vs-bal-mlb-2026-07-01" tvg-id="cws-vs-bal-mlb-2026-07-01" tvg-chno="5000" tvg-name="Chicago White Sox vs Baltimore Orioles" tvg-logo="https://img.rebeliptv.net/event/cws-vs-bal-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",Chicago White Sox vs Baltimore Orioles
-https://ciberbelami-tvorb.hf.space/stream/cws-vs-bal-mlb-2026-07-01.ts
-#EXTINF:-1 channel-id="tex-vs-cle-mlb-2026-07-01" tvg-id="tex-vs-cle-mlb-2026-07-01" tvg-chno="5001" tvg-name="Texas Rangers vs Cleveland Guardians" tvg-logo="https://img.rebeliptv.net/event/tex-vs-cle-mlb-2026-07-01.png" tvg-country="US" tvg-language="English" group-title="MLB",Texas Rangers vs Cleveland Guardians
-https://ciberbelami-tvorb.hf.space/stream/tex-vs-cle-mlb-2026-07-01.ts
