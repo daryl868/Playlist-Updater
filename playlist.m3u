@@ -39,6 +39,8 @@ https://ciberbelami-tvorb.hf.space/stream/axs-tv.ts
 https://ciberbelami-tvorb.hf.space/stream/bbc-america.ts
 #EXTINF:-1 channel-id="bbc-1" tvg-id="bbc-1" tvg-name="BBC One" tvg-logo="https://img.rebeliptv.net/channel/bbc-1.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC One
 https://ciberbelami-tvorb.hf.space/stream/bbc-1.ts
+#EXTINF:-1 channel-id="bbc-news" tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://img.rebeliptv.net/channel/bbc-news.png" tvg-country="US" tvg-language="English" group-title="Broadcast;News",BBC News
+https://ciberbelami-tvorb.hf.space/stream/bbc-news.ts
 #EXTINF:-1 channel-id="bbc-four" tvg-id="bbc-four" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-four.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
 https://ciberbelami-tvorb.hf.space/stream/bbc-four.ts
 #EXTINF:-1 channel-id="bbc-2" tvg-id="bbc-2" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-2.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
@@ -819,25 +821,25 @@ https://ciberbelami-tvorb.hf.space/stream/wjar.ts
 https://ciberbelami-tvorb.hf.space/stream/wnac.ts
 #EXTINF:-1 channel-id="wpri" tvg-id="wpri" tvg-name="WPRI" tvg-logo="https://img.rebeliptv.net/channel/wpri.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPRI
 https://ciberbelami-tvorb.hf.space/stream/wpri.ts
-#EXTINF:-1 channel-id="pit-vs-phi-mlb-2026-07-02" tvg-id="pit-vs-phi-mlb-2026-07-02" tvg-chno="5000" tvg-name="Pittsburgh Pirates vs Philadelphia Phillies" tvg-logo="https://img.rebeliptv.net/event/pit-vs-phi-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Pittsburgh Pirates vs Philadelphia Phillies
-https://ciberbelami-tvorb.hf.space/stream/pit-vs-phi-mlb-2026-07-02.ts
-#EXTINF:-1 channel-id="cin-vs-mil-mlb-2026-07-02" tvg-id="cin-vs-mil-mlb-2026-07-02" tvg-chno="5001" tvg-name="Cincinnati Reds vs Milwaukee Brewers" tvg-logo="https://img.rebeliptv.net/event/cin-vs-mil-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Cincinnati Reds vs Milwaukee Brewers
+#EXTINF:-1 channel-id="cin-vs-mil-mlb-2026-07-02" tvg-id="cin-vs-mil-mlb-2026-07-02" tvg-chno="5000" tvg-name="Cincinnati Reds vs Milwaukee Brewers" tvg-logo="https://img.rebeliptv.net/event/cin-vs-mil-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Cincinnati Reds vs Milwaukee Brewers
 https://ciberbelami-tvorb.hf.space/stream/cin-vs-mil-mlb-2026-07-02.ts
-#EXTINF:-1 channel-id="aut-vs-esp-fifa-2026-07-02" tvg-id="aut-vs-esp-fifa-2026-07-02" tvg-chno="5002" tvg-name="Austria vs Spain" tvg-logo="https://img.rebeliptv.net/event/aut-vs-esp-fifa-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="FIFA",Austria vs Spain
+#EXTINF:-1 channel-id="aut-vs-esp-fifa-2026-07-02" tvg-id="aut-vs-esp-fifa-2026-07-02" tvg-chno="5001" tvg-name="Austria vs Spain" tvg-logo="https://img.rebeliptv.net/event/aut-vs-esp-fifa-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="FIFA",Austria vs Spain
 https://ciberbelami-tvorb.hf.space/stream/aut-vs-esp-fifa-2026-07-02.ts
-#EXTINF:-1 channel-id="mia-vs-col-mlb-2026-07-02" tvg-id="mia-vs-col-mlb-2026-07-02" tvg-chno="5003" tvg-name="Miami Marlins vs Colorado Rockies" tvg-logo="https://img.rebeliptv.net/event/mia-vs-col-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Miami Marlins vs Colorado Rockies
+#EXTINF:-1 channel-id="mia-vs-col-mlb-2026-07-02" tvg-id="mia-vs-col-mlb-2026-07-02" tvg-chno="5002" tvg-name="Miami Marlins vs Colorado Rockies" tvg-logo="https://img.rebeliptv.net/event/mia-vs-col-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Miami Marlins vs Colorado Rockies
 https://ciberbelami-tvorb.hf.space/stream/mia-vs-col-mlb-2026-07-02.ts
-#EXTINF:-1 channel-id="cws-vs-cle-mlb-2026-07-02" tvg-id="cws-vs-cle-mlb-2026-07-02" tvg-chno="5004" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://img.rebeliptv.net/event/cws-vs-cle-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Chicago White Sox vs Cleveland Guardians
+#EXTINF:-1 channel-id="cws-vs-cle-mlb-2026-07-02" tvg-id="cws-vs-cle-mlb-2026-07-02" tvg-chno="5003" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="https://img.rebeliptv.net/event/cws-vs-cle-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Chicago White Sox vs Cleveland Guardians
 https://ciberbelami-tvorb.hf.space/stream/cws-vs-cle-mlb-2026-07-02.ts
-#EXTINF:-1 channel-id="cro-vs-por-fifa-2026-07-02" tvg-id="cro-vs-por-fifa-2026-07-02" tvg-chno="5005" tvg-name="Croatia vs Portugal" tvg-logo="https://img.rebeliptv.net/event/cro-vs-por-fifa-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="FIFA",Croatia vs Portugal
+#EXTINF:-1 channel-id="cro-vs-por-fifa-2026-07-02" tvg-id="cro-vs-por-fifa-2026-07-02" tvg-chno="5004" tvg-name="Croatia vs Portugal" tvg-logo="https://img.rebeliptv.net/event/cro-vs-por-fifa-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="FIFA",Croatia vs Portugal
 https://ciberbelami-tvorb.hf.space/stream/cro-vs-por-fifa-2026-07-02.ts
-#EXTINF:-1 channel-id="stl-vs-atl-mlb-2026-07-02" tvg-id="stl-vs-atl-mlb-2026-07-02" tvg-chno="5006" tvg-name="St. Louis Cardinals vs Atlanta Braves" tvg-logo="https://img.rebeliptv.net/event/stl-vs-atl-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",St. Louis Cardinals vs Atlanta Braves
+#EXTINF:-1 channel-id="stl-vs-atl-mlb-2026-07-02" tvg-id="stl-vs-atl-mlb-2026-07-02" tvg-chno="5005" tvg-name="St. Louis Cardinals vs Atlanta Braves" tvg-logo="https://img.rebeliptv.net/event/stl-vs-atl-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",St. Louis Cardinals vs Atlanta Braves
 https://ciberbelami-tvorb.hf.space/stream/stl-vs-atl-mlb-2026-07-02.ts
-#EXTINF:-1 channel-id="tbr-vs-kcr-mlb-2026-07-02" tvg-id="tbr-vs-kcr-mlb-2026-07-02" tvg-chno="5007" tvg-name="Tampa Bay Rays vs Kansas City Royals" tvg-logo="https://img.rebeliptv.net/event/tbr-vs-kcr-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Tampa Bay Rays vs Kansas City Royals
+#EXTINF:-1 channel-id="tbr-vs-kcr-mlb-2026-07-02" tvg-id="tbr-vs-kcr-mlb-2026-07-02" tvg-chno="5006" tvg-name="Tampa Bay Rays vs Kansas City Royals" tvg-logo="https://img.rebeliptv.net/event/tbr-vs-kcr-mlb-2026-07-02.png" tvg-country="US" tvg-language="English" group-title="MLB",Tampa Bay Rays vs Kansas City Royals
 https://ciberbelami-tvorb.hf.space/stream/tbr-vs-kcr-mlb-2026-07-02.ts
-#EXTINF:-1 channel-id="det-vs-tex-mlb-2026-07-03" tvg-id="det-vs-tex-mlb-2026-07-03" tvg-chno="5008" tvg-name="Detroit Tigers vs Texas Rangers" tvg-logo="https://img.rebeliptv.net/event/det-vs-tex-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",Detroit Tigers vs Texas Rangers
+#EXTINF:-1 channel-id="det-vs-tex-mlb-2026-07-03" tvg-id="det-vs-tex-mlb-2026-07-03" tvg-chno="5007" tvg-name="Detroit Tigers vs Texas Rangers" tvg-logo="https://img.rebeliptv.net/event/det-vs-tex-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",Detroit Tigers vs Texas Rangers
 https://ciberbelami-tvorb.hf.space/stream/det-vs-tex-mlb-2026-07-03.ts
-#EXTINF:-1 channel-id="laa-vs-sea-mlb-2026-07-03" tvg-id="laa-vs-sea-mlb-2026-07-03" tvg-chno="5009" tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://img.rebeliptv.net/event/laa-vs-sea-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Angels vs Seattle Mariners
+#EXTINF:-1 channel-id="laa-vs-sea-mlb-2026-07-03" tvg-id="laa-vs-sea-mlb-2026-07-03" tvg-chno="5008" tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://img.rebeliptv.net/event/laa-vs-sea-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Angels vs Seattle Mariners
 https://ciberbelami-tvorb.hf.space/stream/laa-vs-sea-mlb-2026-07-03.ts
-#EXTINF:-1 channel-id="sdp-vs-lad-mlb-2026-07-03" tvg-id="sdp-vs-lad-mlb-2026-07-03" tvg-chno="5010" tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://img.rebeliptv.net/event/sdp-vs-lad-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",San Diego Padres vs Los Angeles Dodgers
+#EXTINF:-1 channel-id="sdp-vs-lad-mlb-2026-07-03" tvg-id="sdp-vs-lad-mlb-2026-07-03" tvg-chno="5009" tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://img.rebeliptv.net/event/sdp-vs-lad-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",San Diego Padres vs Los Angeles Dodgers
 https://ciberbelami-tvorb.hf.space/stream/sdp-vs-lad-mlb-2026-07-03.ts
+#EXTINF:-1 channel-id="alg-vs-sui-fifa-2026-07-03" tvg-id="alg-vs-sui-fifa-2026-07-03" tvg-chno="5010" tvg-name="Algeria vs Switzerland" tvg-logo="https://img.rebeliptv.net/event/alg-vs-sui-fifa-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="FIFA",Algeria vs Switzerland
+https://ciberbelami-tvorb.hf.space/stream/alg-vs-sui-fifa-2026-07-03.ts
