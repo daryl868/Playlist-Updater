@@ -7,6 +7,8 @@ https://ciberbelami-tvorb.hf.space/stream/cbs.ts
 https://ciberbelami-tvorb.hf.space/stream/nbc.ts
 #EXTINF:-1 channel-id="fox" tvg-id="fox" tvg-name="FOX" tvg-logo="https://img.rebeliptv.net/channel/fox.png" tvg-country="US" tvg-language="English" group-title="Broadcast",FOX
 https://ciberbelami-tvorb.hf.space/stream/fox.ts
+#EXTINF:-1 channel-id="cw" tvg-id="cw" tvg-name="CW" tvg-logo="https://img.rebeliptv.net/channel/cw.png" tvg-country="US" tvg-language="English" group-title="Broadcast",CW
+https://ciberbelami-tvorb.hf.space/stream/cw.ts
 #EXTINF:-1 channel-id="pbs" tvg-id="pbs" tvg-name="PBS" tvg-logo="https://img.rebeliptv.net/channel/pbs.png" tvg-country="US" tvg-language="English" group-title="Broadcast",PBS
 https://ciberbelami-tvorb.hf.space/stream/pbs.ts
 #EXTINF:-1 channel-id="ion" tvg-id="ion" tvg-name="ION" tvg-logo="https://img.rebeliptv.net/channel/ion.png" tvg-country="US" tvg-language="English" group-title="Broadcast",ION
@@ -835,3 +837,7 @@ https://ciberbelami-tvorb.hf.space/stream/stl-vs-atl-mlb-2026-07-02.ts
 https://ciberbelami-tvorb.hf.space/stream/tbr-vs-kcr-mlb-2026-07-02.ts
 #EXTINF:-1 channel-id="det-vs-tex-mlb-2026-07-03" tvg-id="det-vs-tex-mlb-2026-07-03" tvg-chno="5008" tvg-name="Detroit Tigers vs Texas Rangers" tvg-logo="https://img.rebeliptv.net/event/det-vs-tex-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",Detroit Tigers vs Texas Rangers
 https://ciberbelami-tvorb.hf.space/stream/det-vs-tex-mlb-2026-07-03.ts
+#EXTINF:-1 channel-id="laa-vs-sea-mlb-2026-07-03" tvg-id="laa-vs-sea-mlb-2026-07-03" tvg-chno="5009" tvg-name="Los Angeles Angels vs Seattle Mariners" tvg-logo="https://img.rebeliptv.net/event/laa-vs-sea-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Angels vs Seattle Mariners
+https://ciberbelami-tvorb.hf.space/stream/laa-vs-sea-mlb-2026-07-03.ts
+#EXTINF:-1 channel-id="sdp-vs-lad-mlb-2026-07-03" tvg-id="sdp-vs-lad-mlb-2026-07-03" tvg-chno="5010" tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://img.rebeliptv.net/event/sdp-vs-lad-mlb-2026-07-03.png" tvg-country="US" tvg-language="English" group-title="MLB",San Diego Padres vs Los Angeles Dodgers
+https://ciberbelami-tvorb.hf.space/stream/sdp-vs-lad-mlb-2026-07-03.ts
