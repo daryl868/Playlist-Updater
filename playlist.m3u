@@ -493,8 +493,6 @@ https://ciberbelami-tvorb.hf.space/stream/pbs-kids.ts
 https://ciberbelami-tvorb.hf.space/stream/pop-tv.ts
 #EXTINF:-1 channel-id="real-americas-voice" tvg-id="real-americas-voice" tvg-name="Real America's Voice" tvg-logo="https://img.rebeliptv.net/channel/real-americas-voice.png" tvg-country="US" tvg-language="English" group-title="News",Real America's Voice
 https://ciberbelami-tvorb.hf.space/stream/real-americas-voice.ts
-#EXTINF:-1 channel-id="reelzchannel" tvg-id="reelzchannel" tvg-name="ReelzChannel" tvg-logo="https://img.rebeliptv.net/channel/reelzchannel.png" tvg-country="US" tvg-language="English" group-title="Entertainment",ReelzChannel
-https://ciberbelami-tvorb.hf.space/stream/reelzchannel.ts
 #EXTINF:-1 channel-id="rfd-tv" tvg-id="rfd-tv" tvg-name="RFD TV" tvg-logo="https://img.rebeliptv.net/channel/rfd-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",RFD TV
 https://ciberbelami-tvorb.hf.space/stream/rfd-tv.ts
 #EXTINF:-1 channel-id="science-channel" tvg-id="science-channel" tvg-name="Science Channel" tvg-logo="https://img.rebeliptv.net/channel/science-channel.png" tvg-country="US" tvg-language="English" group-title="Documentary",Science Channel
@@ -525,8 +523,6 @@ https://ciberbelami-tvorb.hf.space/stream/sky-sports-main-event.ts
 https://ciberbelami-tvorb.hf.space/stream/sky-sports-mix.ts
 #EXTINF:-1 channel-id="sky-sports-news" tvg-id="sky-sports-news" tvg-name="Sky Sports News" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-news.png" tvg-country="US" tvg-language="English" group-title="Sports;News",Sky Sports News
 https://ciberbelami-tvorb.hf.space/stream/sky-sports-news.ts
-#EXTINF:-1 channel-id="sky-sports-plus" tvg-id="sky-sports-plus" tvg-name="Sky Sports Plus" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-plus.png" tvg-country="US" tvg-language="English" group-title="Sports",Sky Sports Plus
-https://ciberbelami-tvorb.hf.space/stream/sky-sports-plus.ts
 #EXTINF:-1 channel-id="sky-sports-premier-league" tvg-id="sky-sports-premier-league" tvg-name="Sky Sports Premier League" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-premier-league.png" tvg-country="US" tvg-language="English" group-title="Sports",Sky Sports Premier League
 https://ciberbelami-tvorb.hf.space/stream/sky-sports-premier-league.ts
 #EXTINF:-1 channel-id="sky-sports-racing" tvg-id="sky-sports-racing" tvg-name="Sky Sports Racing" tvg-logo="https://img.rebeliptv.net/channel/sky-sports-racing.png" tvg-country="US" tvg-language="English" group-title="Sports",Sky Sports Racing
@@ -837,3 +833,5 @@ https://ciberbelami-tvorb.hf.space/stream/cws-vs-cle-mlb-2026-07-03.ts
 https://ciberbelami-tvorb.hf.space/stream/nym-vs-atl-mlb-2026-07-03.ts
 #EXTINF:-1 channel-id="sfg-vs-col-mlb-2026-07-04" tvg-id="sfg-vs-col-mlb-2026-07-04" tvg-chno="5008" tvg-name="San Francisco Giants vs Colorado Rockies" tvg-logo="https://img.rebeliptv.net/event/sfg-vs-col-mlb-2026-07-04.png" tvg-country="US" tvg-language="English" group-title="MLB",San Francisco Giants vs Colorado Rockies
 https://ciberbelami-tvorb.hf.space/stream/sfg-vs-col-mlb-2026-07-04.ts
+#EXTINF:-1 channel-id="gha-vs-col-fifa-2026-07-04" tvg-id="gha-vs-col-fifa-2026-07-04" tvg-chno="5009" tvg-name="Ghana vs Colombia" tvg-logo="https://img.rebeliptv.net/event/gha-vs-col-fifa-2026-07-04.png" tvg-country="US" tvg-language="English" group-title="FIFA",Ghana vs Colombia
+https://ciberbelami-tvorb.hf.space/stream/gha-vs-col-fifa-2026-07-04.ts
