@@ -439,6 +439,8 @@ https://ciberbelami-tvorb.hf.space/stream/mtv-live.ts
 https://ciberbelami-tvorb.hf.space/stream/mtv2.ts
 #EXTINF:-1 channel-id="mtvu" tvg-id="mtvu" tvg-name="MTVU" tvg-logo="https://img.rebeliptv.net/channel/mtvu.png" tvg-country="US" tvg-language="English" group-title="Music",MTVU
 https://ciberbelami-tvorb.hf.space/stream/mtvu.ts
+#EXTINF:-1 channel-id="mynetworktv" tvg-id="mynetworktv" tvg-name="MyNetworkTV" tvg-logo="https://img.rebeliptv.net/channel/mynetworktv.png" tvg-country="US" tvg-language="English" group-title="Broadcast",MyNetworkTV
+https://ciberbelami-tvorb.hf.space/stream/mynetworktv.ts
 #EXTINF:-1 channel-id="nat-geo-wild" tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild" tvg-logo="https://img.rebeliptv.net/channel/nat-geo-wild.png" tvg-country="US" tvg-language="English" group-title="Documentary",Nat Geo Wild
 https://ciberbelami-tvorb.hf.space/stream/nat-geo-wild.ts
 #EXTINF:-1 channel-id="national-geographic" tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://img.rebeliptv.net/channel/national-geographic.png" tvg-country="US" tvg-language="English" group-title="Documentary",National Geographic
@@ -823,3 +825,7 @@ https://ciberbelami-tvorb.hf.space/stream/wpri.ts
 https://ciberbelami-tvorb.hf.space/stream/pit-vs-wsh-mlb-2026-07-04.ts
 #EXTINF:-1 channel-id="min-vs-nyy-mlb-2026-07-04" tvg-id="min-vs-nyy-mlb-2026-07-04" tvg-chno="5001" tvg-name="Minnesota Twins vs New York Yankees" tvg-logo="https://img.rebeliptv.net/event/min-vs-nyy-mlb-2026-07-04.png" tvg-country="US" tvg-language="English" group-title="MLB",Minnesota Twins vs New York Yankees
 https://ciberbelami-tvorb.hf.space/stream/min-vs-nyy-mlb-2026-07-04.ts
+#EXTINF:-1 channel-id="det-vs-tex-mlb-2026-07-04" tvg-id="det-vs-tex-mlb-2026-07-04" tvg-chno="5002" tvg-name="Detroit Tigers vs Texas Rangers" tvg-logo="https://img.rebeliptv.net/event/det-vs-tex-mlb-2026-07-04.png" tvg-country="US" tvg-language="English" group-title="MLB",Detroit Tigers vs Texas Rangers
+https://ciberbelami-tvorb.hf.space/stream/det-vs-tex-mlb-2026-07-04.ts
+#EXTINF:-1 channel-id="tor-vs-sea-mlb-2026-07-04" tvg-id="tor-vs-sea-mlb-2026-07-04" tvg-chno="5003" tvg-name="Toronto Blue Jays vs Seattle Mariners" tvg-logo="https://img.rebeliptv.net/event/tor-vs-sea-mlb-2026-07-04.png" tvg-country="US" tvg-language="English" group-title="MLB",Toronto Blue Jays vs Seattle Mariners
+https://ciberbelami-tvorb.hf.space/stream/tor-vs-sea-mlb-2026-07-04.ts
