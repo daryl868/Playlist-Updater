@@ -725,6 +725,8 @@ https://ciberbelami-tvorb.hf.space/stream/wmaq.ts
 https://ciberbelami-tvorb.hf.space/stream/wmar.ts
 #EXTINF:-1 channel-id="wnbc" tvg-id="wnbc" tvg-name="WNBC" tvg-logo="https://img.rebeliptv.net/channel/wnbc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNBC
 https://ciberbelami-tvorb.hf.space/stream/wnbc.ts
+#EXTINF:-1 channel-id="wisc" tvg-id="wisc" tvg-name="WISC" tvg-logo="https://img.rebeliptv.net/channel/wisc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WISC
+https://ciberbelami-tvorb.hf.space/stream/wisc.ts
 #EXTINF:-1 channel-id="wncn" tvg-id="wncn" tvg-name="WNCN" tvg-logo="https://img.rebeliptv.net/channel/wncn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNCN
 https://ciberbelami-tvorb.hf.space/stream/wncn.ts
 #EXTINF:-1 channel-id="wnyw" tvg-id="wnyw" tvg-name="WNYW" tvg-logo="https://img.rebeliptv.net/channel/wnyw.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WNYW
@@ -747,6 +749,8 @@ https://ciberbelami-tvorb.hf.space/stream/wplg.ts
 https://ciberbelami-tvorb.hf.space/stream/wpvi.ts
 #EXTINF:-1 channel-id="wpxi" tvg-id="wpxi" tvg-name="WPXI" tvg-logo="https://img.rebeliptv.net/channel/wpxi.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPXI
 https://ciberbelami-tvorb.hf.space/stream/wpxi.ts
+#EXTINF:-1 channel-id="wkow" tvg-id="wkow" tvg-name="WKOW" tvg-logo="https://img.rebeliptv.net/channel/wkow.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WKOW
+https://ciberbelami-tvorb.hf.space/stream/wkow.ts
 #EXTINF:-1 channel-id="wral" tvg-id="wral" tvg-name="WRAL" tvg-logo="https://img.rebeliptv.net/channel/wral.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WRAL
 https://ciberbelami-tvorb.hf.space/stream/wral.ts
 #EXTINF:-1 channel-id="wraz" tvg-id="wraz" tvg-name="WRAZ" tvg-logo="https://img.rebeliptv.net/channel/wraz.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WRAZ
@@ -765,8 +769,12 @@ https://ciberbelami-tvorb.hf.space/stream/wsoc.ts
 https://ciberbelami-tvorb.hf.space/stream/wsvn.ts
 #EXTINF:-1 channel-id="wsyx" tvg-id="wsyx" tvg-name="WSYX" tvg-logo="https://img.rebeliptv.net/channel/wsyx.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WSYX
 https://ciberbelami-tvorb.hf.space/stream/wsyx.ts
+#EXTINF:-1 channel-id="wmsn" tvg-id="wmsn" tvg-name="WMSN" tvg-logo="https://img.rebeliptv.net/channel/wmsn.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WMSN
+https://ciberbelami-tvorb.hf.space/stream/wmsn.ts
 #EXTINF:-1 channel-id="wtae" tvg-id="wtae" tvg-name="WTAE" tvg-logo="https://img.rebeliptv.net/channel/wtae.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTAE
 https://ciberbelami-tvorb.hf.space/stream/wtae.ts
+#EXTINF:-1 channel-id="wmtv" tvg-id="wmtv" tvg-name="WMTV" tvg-logo="https://img.rebeliptv.net/channel/wmtv.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WMTV
+https://ciberbelami-tvorb.hf.space/stream/wmtv.ts
 #EXTINF:-1 channel-id="wthr" tvg-id="wthr" tvg-name="WTHR" tvg-logo="https://img.rebeliptv.net/channel/wthr.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTHR
 https://ciberbelami-tvorb.hf.space/stream/wthr.ts
 #EXTINF:-1 channel-id="wtmj" tvg-id="wtmj" tvg-name="WTMJ" tvg-logo="https://img.rebeliptv.net/channel/wtmj.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WTMJ
@@ -841,3 +849,15 @@ https://ciberbelami-tvorb.hf.space/stream/hou-vs-wsh-mlb-2026-07-07.ts
 https://ciberbelami-tvorb.hf.space/stream/kcr-vs-nym-mlb-2026-07-07.ts
 #EXTINF:-1 channel-id="phi-vs-cin-mlb-2026-07-07" tvg-id="phi-vs-cin-mlb-2026-07-07" tvg-chno="5009" tvg-name="Philadelphia Phillies vs Cincinnati Reds" tvg-logo="https://img.rebeliptv.net/event/phi-vs-cin-mlb-2026-07-07.png" tvg-country="US" tvg-language="English" group-title="MLB",Philadelphia Phillies vs Cincinnati Reds
 https://ciberbelami-tvorb.hf.space/stream/phi-vs-cin-mlb-2026-07-07.ts
+#EXTINF:-1 channel-id="bos-vs-cws-mlb-2026-07-07" tvg-id="bos-vs-cws-mlb-2026-07-07" tvg-chno="5010" tvg-name="Boston Red Sox vs Chicago White Sox" tvg-logo="https://img.rebeliptv.net/event/bos-vs-cws-mlb-2026-07-07.png" tvg-country="US" tvg-language="English" group-title="MLB",Boston Red Sox vs Chicago White Sox
+https://ciberbelami-tvorb.hf.space/stream/bos-vs-cws-mlb-2026-07-07.ts
+#EXTINF:-1 channel-id="cle-vs-min-mlb-2026-07-07" tvg-id="cle-vs-min-mlb-2026-07-07" tvg-chno="5011" tvg-name="Cleveland Guardians vs Minnesota Twins" tvg-logo="https://img.rebeliptv.net/event/cle-vs-min-mlb-2026-07-07.png" tvg-country="US" tvg-language="English" group-title="MLB",Cleveland Guardians vs Minnesota Twins
+https://ciberbelami-tvorb.hf.space/stream/cle-vs-min-mlb-2026-07-07.ts
+#EXTINF:-1 channel-id="mil-vs-stl-mlb-2026-07-07" tvg-id="mil-vs-stl-mlb-2026-07-07" tvg-chno="5012" tvg-name="Milwaukee Brewers vs St. Louis Cardinals" tvg-logo="https://img.rebeliptv.net/event/mil-vs-stl-mlb-2026-07-07.png" tvg-country="US" tvg-language="English" group-title="MLB",Milwaukee Brewers vs St. Louis Cardinals
+https://ciberbelami-tvorb.hf.space/stream/mil-vs-stl-mlb-2026-07-07.ts
+#EXTINF:-1 channel-id="laa-vs-tex-mlb-2026-07-08" tvg-id="laa-vs-tex-mlb-2026-07-08" tvg-chno="5013" tvg-name="Los Angeles Angels vs Texas Rangers" tvg-logo="https://img.rebeliptv.net/event/laa-vs-tex-mlb-2026-07-08.png" tvg-country="US" tvg-language="English" group-title="MLB",Los Angeles Angels vs Texas Rangers
+https://ciberbelami-tvorb.hf.space/stream/laa-vs-tex-mlb-2026-07-08.ts
+#EXTINF:-1 channel-id="ari-vs-sdp-mlb-2026-07-08" tvg-id="ari-vs-sdp-mlb-2026-07-08" tvg-chno="5014" tvg-name="Arizona Diamondbacks vs San Diego Padres" tvg-logo="https://img.rebeliptv.net/event/ari-vs-sdp-mlb-2026-07-08.png" tvg-country="US" tvg-language="English" group-title="MLB",Arizona Diamondbacks vs San Diego Padres
+https://ciberbelami-tvorb.hf.space/stream/ari-vs-sdp-mlb-2026-07-08.ts
+#EXTINF:-1 channel-id="col-vs-lad-mlb-2026-07-08" tvg-id="col-vs-lad-mlb-2026-07-08" tvg-chno="5015" tvg-name="Colorado Rockies vs Los Angeles Dodgers" tvg-logo="https://img.rebeliptv.net/event/col-vs-lad-mlb-2026-07-08.png" tvg-country="US" tvg-language="English" group-title="MLB",Colorado Rockies vs Los Angeles Dodgers
+https://ciberbelami-tvorb.hf.space/stream/col-vs-lad-mlb-2026-07-08.ts
