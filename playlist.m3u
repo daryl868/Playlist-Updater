@@ -41,8 +41,6 @@ https://ciberbelami-tvorb.hf.space/stream/bbc-america.ts
 https://ciberbelami-tvorb.hf.space/stream/bbc-1.ts
 #EXTINF:-1 channel-id="bbc-news" tvg-id="bbc-news" tvg-name="BBC News" tvg-logo="https://img.rebeliptv.net/channel/bbc-news.png" tvg-country="US" tvg-language="English" group-title="Broadcast;News",BBC News
 https://ciberbelami-tvorb.hf.space/stream/bbc-news.ts
-#EXTINF:-1 channel-id="bbc-four" tvg-id="bbc-four" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-four.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
-https://ciberbelami-tvorb.hf.space/stream/bbc-four.ts
 #EXTINF:-1 channel-id="bbc-2" tvg-id="bbc-2" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-2.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
 https://ciberbelami-tvorb.hf.space/stream/bbc-2.ts
 #EXTINF:-1 channel-id="bein-sports" tvg-id="bein-sports" tvg-name="BeIN Sports" tvg-logo="https://img.rebeliptv.net/channel/bein-sports.png" tvg-country="US" tvg-language="English" group-title="Sports",BeIN Sports
@@ -55,8 +53,6 @@ https://ciberbelami-tvorb.hf.space/stream/bbc-3.ts
 https://ciberbelami-tvorb.hf.space/stream/bet.ts
 #EXTINF:-1 channel-id="bbc-two" tvg-id="bbc-two" tvg-name="BBC Two" tvg-logo="https://img.rebeliptv.net/channel/bbc-two.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Two
 https://ciberbelami-tvorb.hf.space/stream/bbc-two.ts
-#EXTINF:-1 channel-id="bbc-4" tvg-id="bbc-4" tvg-name="BBC Four" tvg-logo="https://img.rebeliptv.net/channel/bbc-4.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Four
-https://ciberbelami-tvorb.hf.space/stream/bbc-4.ts
 #EXTINF:-1 channel-id="bet-gospel" tvg-id="bet-gospel" tvg-name="BET Gospel" tvg-logo="https://img.rebeliptv.net/channel/bet-gospel.png" tvg-country="US" tvg-language="English" group-title="Music",BET Gospel
 https://ciberbelami-tvorb.hf.space/stream/bet-gospel.ts
 #EXTINF:-1 channel-id="bbc-three" tvg-id="bbc-three" tvg-name="BBC Three" tvg-logo="https://img.rebeliptv.net/channel/bbc-three.png" tvg-country="US" tvg-language="English" group-title="Broadcast;Entertainment",BBC Three
