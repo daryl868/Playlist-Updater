@@ -629,12 +629,20 @@ https://ciberbelami-tvorb.hf.space/stream/tv-land.ts
 https://ciberbelami-tvorb.hf.space/stream/tv-one.ts
 #EXTINF:-1 channel-id="usa-network" tvg-id="usa-network" tvg-name="USA Network" tvg-logo="https://img.rebeliptv.net/channel/usa-network.png" tvg-country="US" tvg-language="English" group-title="Entertainment",USA Network
 https://ciberbelami-tvorb.hf.space/stream/usa-network.ts
+#EXTINF:-1 channel-id="tnt-sports-1" tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://img.rebeliptv.net/channel/tnt-sports-1.png" tvg-country="US" tvg-language="English" group-title="Sports",TNT Sports 1
+https://ciberbelami-tvorb.hf.space/stream/tnt-sports-1.ts
 #EXTINF:-1 channel-id="vh1" tvg-id="vh1" tvg-name="VH1" tvg-logo="https://img.rebeliptv.net/channel/vh1.png" tvg-country="US" tvg-language="English" group-title="Music",VH1
 https://ciberbelami-tvorb.hf.space/stream/vh1.ts
+#EXTINF:-1 channel-id="tnt-sports-2" tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://img.rebeliptv.net/channel/tnt-sports-2.png" tvg-country="US" tvg-language="English" group-title="Sports",TNT Sports 2
+https://ciberbelami-tvorb.hf.space/stream/tnt-sports-2.ts
 #EXTINF:-1 channel-id="vice-tv" tvg-id="vice-tv" tvg-name="Vice TV" tvg-logo="https://img.rebeliptv.net/channel/vice-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Vice TV
 https://ciberbelami-tvorb.hf.space/stream/vice-tv.ts
+#EXTINF:-1 channel-id="tnt-sports-3" tvg-id="tnt-sports-3" tvg-name="TNT Sports 3" tvg-logo="https://img.rebeliptv.net/channel/tnt-sports-3.png" tvg-country="US" tvg-language="English" group-title="Sports",TNT Sports 3
+https://ciberbelami-tvorb.hf.space/stream/tnt-sports-3.ts
 #EXTINF:-1 channel-id="wabc" tvg-id="wabc" tvg-name="WABC" tvg-logo="https://img.rebeliptv.net/channel/wabc.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WABC
 https://ciberbelami-tvorb.hf.space/stream/wabc.ts
+#EXTINF:-1 channel-id="tnt-sports-4" tvg-id="tnt-sports-4" tvg-name="TNT Sports 4" tvg-logo="https://img.rebeliptv.net/channel/tnt-sports-4.png" tvg-country="US" tvg-language="English" group-title="Sports",TNT Sports 4
+https://ciberbelami-tvorb.hf.space/stream/tnt-sports-4.ts
 #EXTINF:-1 channel-id="waga" tvg-id="waga" tvg-name="WAGA" tvg-logo="https://img.rebeliptv.net/channel/waga.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WAGA
 https://ciberbelami-tvorb.hf.space/stream/waga.ts
 #EXTINF:-1 channel-id="wbal" tvg-id="wbal" tvg-name="WBAL" tvg-logo="https://img.rebeliptv.net/channel/wbal.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WBAL
