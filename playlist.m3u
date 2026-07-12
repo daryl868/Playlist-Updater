@@ -563,6 +563,8 @@ https://ciberbelami-tvorb.hf.space/stream/starz.ts
 https://ciberbelami-tvorb.hf.space/stream/starz-cinema.ts
 #EXTINF:-1 channel-id="starz-comedy" tvg-id="starz-comedy" tvg-name="Starz Comedy" tvg-logo="https://img.rebeliptv.net/channel/starz-comedy.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Comedy
 https://ciberbelami-tvorb.hf.space/stream/starz-comedy.ts
+#EXTINF:-1 channel-id="space-city-home-network" tvg-id="space-city-home-network" tvg-name="Space City Home Network" tvg-logo="https://img.rebeliptv.net/channel/space-city-home-network.png" tvg-country="US" tvg-language="English" group-title="Sports",Space City Home Network
+https://ciberbelami-tvorb.hf.space/stream/space-city-home-network.ts
 #EXTINF:-1 channel-id="starz-edge" tvg-id="starz-edge" tvg-name="Starz Edge" tvg-logo="https://img.rebeliptv.net/channel/starz-edge.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Edge
 https://ciberbelami-tvorb.hf.space/stream/starz-edge.ts
 #EXTINF:-1 channel-id="starz-encore" tvg-id="starz-encore" tvg-name="Starz Encore" tvg-logo="https://img.rebeliptv.net/channel/starz-encore.png" tvg-country="US" tvg-language="English" group-title="Movies",Starz Encore
