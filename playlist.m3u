@@ -159,14 +159,6 @@ https://ciberbelami-tvorb.hf.space/stream/espnu.ts
 https://ciberbelami-tvorb.hf.space/stream/family-movie-classics.ts
 #EXTINF:-1 channel-id="fanduel-racing" tvg-id="fanduel-racing" tvg-name="FanDuel Racing" tvg-logo="https://img.rebeliptv.net/channel/fanduel-racing.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Racing
 https://ciberbelami-tvorb.hf.space/stream/fanduel-racing.ts
-#EXTINF:-1 channel-id="fanduel-sports-network-detroit" tvg-id="fanduel-sports-network-detroit" tvg-name="FanDuel Sports Detroit" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-detroit.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Detroit
-https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-detroit.ts
-#EXTINF:-1 channel-id="fanduel-sports-network-florida" tvg-id="fanduel-sports-network-florida" tvg-name="FanDuel Sports Florida" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-florida.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Florida
-https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-florida.ts
-#EXTINF:-1 channel-id="fanduel-sports-network-indiana" tvg-id="fanduel-sports-network-indiana" tvg-name="FanDuel Sports Indiana" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-indiana.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Indiana
-https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-indiana.ts
-#EXTINF:-1 channel-id="fanduel-sports-network-kansas-city" tvg-id="fanduel-sports-network-kansas-city" tvg-name="FanDuel Sports Kansas City" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-kansas-city.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Kansas City
-https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-kansas-city.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-midwest" tvg-id="fanduel-sports-network-midwest" tvg-name="FanDuel Sports Midwest" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-midwest.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Midwest
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-midwest.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-north" tvg-id="fanduel-sports-network-north" tvg-name="FanDuel Sports North" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-north.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports North
@@ -183,8 +175,6 @@ https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-south.ts
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-southeast.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-sun" tvg-id="fanduel-sports-network-sun" tvg-name="FanDuel Sports Sun" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-sun.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Sun
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-sun.ts
-#EXTINF:-1 channel-id="fanduel-sports-network-west" tvg-id="fanduel-sports-network-west" tvg-name="FanDuel Sports West" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-west.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports West
-https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-west.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-wisconsin" tvg-id="fanduel-sports-network-wisconsin" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-wisconsin.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Wisconsin
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-wisconsin.ts
 #EXTINF:-1 channel-id="fanduel-tv" tvg-id="fanduel-tv" tvg-name="FanDuel TV" tvg-logo="https://img.rebeliptv.net/channel/fanduel-tv.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel TV
