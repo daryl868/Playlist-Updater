@@ -159,6 +159,8 @@ https://ciberbelami-tvorb.hf.space/stream/espnu.ts
 https://ciberbelami-tvorb.hf.space/stream/family-movie-classics.ts
 #EXTINF:-1 channel-id="fanduel-racing" tvg-id="fanduel-racing" tvg-name="FanDuel Racing" tvg-logo="https://img.rebeliptv.net/channel/fanduel-racing.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Racing
 https://ciberbelami-tvorb.hf.space/stream/fanduel-racing.ts
+#EXTINF:-1 channel-id="fanduel-sports-network-detroit" tvg-id="fanduel-sports-network-detroit" tvg-name="FanDuel Sports Detroit" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-detroit.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Detroit
+https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-detroit.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-florida" tvg-id="fanduel-sports-network-florida" tvg-name="FanDuel Sports Florida" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-florida.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Florida
 https://ciberbelami-tvorb.hf.space/stream/fanduel-sports-network-florida.ts
 #EXTINF:-1 channel-id="fanduel-sports-network-indiana" tvg-id="fanduel-sports-network-indiana" tvg-name="FanDuel Sports Indiana" tvg-logo="https://img.rebeliptv.net/channel/fanduel-sports-network-indiana.png" tvg-country="US" tvg-language="English" group-title="Sports",FanDuel Sports Indiana
@@ -837,5 +839,3 @@ https://ciberbelami-tvorb.hf.space/stream/wjar.ts
 https://ciberbelami-tvorb.hf.space/stream/wnac.ts
 #EXTINF:-1 channel-id="wpri" tvg-id="wpri" tvg-name="WPRI" tvg-logo="https://img.rebeliptv.net/channel/wpri.png" tvg-country="US" tvg-language="English" group-title="Local;Broadcast",WPRI
 https://ciberbelami-tvorb.hf.space/stream/wpri.ts
-#EXTINF:-1 channel-id="ari-vs-lad-mlb-2026-07-12" tvg-id="ari-vs-lad-mlb-2026-07-12" tvg-chno="5000" tvg-name="Arizona Diamondbacks vs Los Angeles Dodgers" tvg-logo="https://img.rebeliptv.net/event/ari-vs-lad-mlb-2026-07-12.png" tvg-country="US" tvg-language="English" group-title="MLB",Arizona Diamondbacks vs Los Angeles Dodgers
-https://ciberbelami-tvorb.hf.space/stream/ari-vs-lad-mlb-2026-07-12.ts
