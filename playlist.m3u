@@ -393,6 +393,8 @@ https://ciberbelami-tvorb.hf.space/stream/kyur.ts
 https://ciberbelami-tvorb.hf.space/stream/kyw.ts
 #EXTINF:-1 channel-id="lifetime" tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://img.rebeliptv.net/channel/lifetime.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime
 https://ciberbelami-tvorb.hf.space/stream/lifetime.ts
+#EXTINF:-1 channel-id="lifetime-movies-lmn" tvg-id="lifetime-movies-lmn" tvg-name="Lifetime Movies" tvg-logo="https://img.rebeliptv.net/channel/lifetime-movies-lmn.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime Movies
+https://ciberbelami-tvorb.hf.space/stream/lifetime-movies-lmn.ts
 #EXTINF:-1 channel-id="logo-tv" tvg-id="logo-tv" tvg-name="LOGO TV" tvg-logo="https://img.rebeliptv.net/channel/logo-tv.png" tvg-country="US" tvg-language="English" group-title="Entertainment",LOGO TV
 https://ciberbelami-tvorb.hf.space/stream/logo-tv.ts
 #EXTINF:-1 channel-id="magnolia-network" tvg-id="magnolia-network" tvg-name="Magnolia Network" tvg-logo="https://img.rebeliptv.net/channel/magnolia-network.png" tvg-country="US" tvg-language="English" group-title="Lifestyle",Magnolia Network
